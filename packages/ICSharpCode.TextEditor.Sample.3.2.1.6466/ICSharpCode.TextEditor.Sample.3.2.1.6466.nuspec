@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ICSharpCode.TextEditor.Sample</id>
+    <version>3.2.1.6466</version>
+    <title>ICSharpCode.TextEditor.Sample</title>
+    <authors>SharpDevelop</authors>
+    <owners>SharpDevelop</owners>
+    <projectUrl>http://wiki.sharpdevelop.net/Using the texteditor.ashx</projectUrl>
+    <iconUrl>http://community.sharpdevelop.net/blogs/mattward/SharpDevelop.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample code for the Text editor used in SharpDevelop 3.</description>
+    <summary>Sample code for the Text editor used in SharpDevelop 3.</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <dependencies>
+      <dependency id="ICSharpCode.TextEditor" version="3.2.1.6466" />
+    </dependencies>
+  </metadata>
+</package>
